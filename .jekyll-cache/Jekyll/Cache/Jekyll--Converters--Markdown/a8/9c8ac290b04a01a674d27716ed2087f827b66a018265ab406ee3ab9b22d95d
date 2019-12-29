@@ -1,0 +1,6 @@
+I"�<p>I’m David Taylor, an undergrad student at Vanderbilt University studying Math and Scientific Computing. I’ve built this site as a place for me to document the things that I’m working on and thinking about, specifically within the realms of data science and mathematics. If you’re interested in chatting about anything you’ve seen on this site, feel free to reach out to me at <a href="mailto:dtaylor072@gmail.com">dtaylor072 (at) gmail (dot) com</a>.</p>
+
+<hr />
+
+<p>The source code for all posts on this site, as well as the site itself, can be found on <a href="https://github.com/dtaylor072">my Github profile</a>. The site is built with <a href="https://jekyllrb.com/">Jekyll</a>, using fork of the <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a> theme. <a href="https://www.mathjax.org/">MathJax</a> is used for <script type="math/tex">\LaTeX</script> rendering.</p>
+:ET
