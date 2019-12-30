@@ -74,6 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -107,6 +108,7 @@ strong, b {
 }
 
 img {
+  padding-right: 10px;
   max-width: 100%;
 }
 
@@ -179,7 +181,9 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    display: inline-block;
+    margin: 25px 10px;
+    padding: 2px
   }
 }
 
