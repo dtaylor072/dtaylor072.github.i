@@ -108,8 +108,11 @@ strong, b {
 }
 
 img {
-  padding-right: 10px;
   max-width: 100%;
+}
+
+.img-container {
+  text-align: center;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -180,11 +183,7 @@ img {
     margin: 0 auto;
   }
 
-  img {
-    display: inline-block;
-    margin: 25px 10px;
-    padding: 2px
-  }
+
 }
 
 .site-info {
