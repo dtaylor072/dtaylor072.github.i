@@ -10,4 +10,4 @@ I'm David Taylor, an undergrad student at Vanderbilt University studying Math an
 
 ---
 
-The source code for all posts on this site, as well as the site itself, can be found on [my Github profile](https://github.com/dtaylor072). The site is built with [Jekyll](https://jekyllrb.com/), using fork of the [jekyll-now](https://github.com/barryclark/jekyll-now) theme. [MathJax](https://www.mathjax.org/) is used for $$ \LaTeX $$ rendering.  
+The source code for all posts on this site, as well as the site itself, can be found on [my Github profile](https://github.com/dtaylor072). The site is built with [Jekyll](https://jekyllrb.com/), using fork of the [jekyll-now](https://github.com/barryclark/jekyll-now) theme. [MathJax](https://www.mathjax.org/) is used for $$ \LaTeX $$ rendering.
