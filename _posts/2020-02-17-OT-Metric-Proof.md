@@ -2,6 +2,7 @@
 layout: post
 title: The Wasserstein Metric is, in fact, a Metric
 date:   2020-02-17 12:00:00 +1100
+icon: /post_assets/2020-02-17/icon.png
 ---
 <!--more-->
 

@@ -4,9 +4,13 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+   
     <article class="post">
-
+      <a href="{{ site.baseurl }}{{ post.url }}">
+      <img src="{{ post.icon }}" class="post-icon"/>
+      </a>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      
       <div class="date">
         Written on {{ post.date | date: "%B %e, %Y" }}
       </div>

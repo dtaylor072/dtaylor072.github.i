@@ -2,6 +2,7 @@
 layout: post
 title: Past Projects and Site Roadmap
 date:   2019-12-29 17:56:00 -0500
+icon: /images/profile_image.png
 ---
 <!--more-->
 
