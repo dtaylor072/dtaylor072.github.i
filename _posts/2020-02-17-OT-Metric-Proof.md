@@ -17,7 +17,7 @@ Here is our set-up: let $\Omega$ be a [Polish space](https://en.wikipedia.org/wi
 
 ___
 ### Theorem and Proof
-__Theorem__: _For every $p \geq 1$, $W_p = \mathcal{T}_p$ defines a metric on $\mathcal{P}_p(\Omega)$. i.e.,_
+__Theorem__: _For every $p \geq 1$, $W_p = \mathcal{T}_p^{1/p}$ defines a metric on $\mathcal{P}_p(\Omega)$. i.e.,_
 
 1. $W_p \geq 0$
 2. $W_p(\mu, \nu) = 0$ _iff_ $\mu = \nu$
