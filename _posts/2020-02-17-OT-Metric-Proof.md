@@ -7,7 +7,7 @@ icon: /post_assets/2020-02-17/icon.png
 <!--more-->
 
 ## Post Overview:
-In this shorter post, we'll prove that that $W_p$ is indeed a metric on $\mathcal{P}(\Omega)$. This is a result that I referenced in my previous post in a rather hand-wavey fashion, and I feel like the proof is accessible enough for me to walk through it in this post. The goal of this post is to help me develop a better understanding of the Wasserstein metric and its properties, as it is foundational to the study of OT.
+In this shorter post, we'll prove that that the $p$-Wasserstein metric $W_p$ is indeed a metric on $\mathcal{P}(\Omega)$. This is a result that I referenced in my previous post in a rather hand-wavey fashion, and I feel like the proof is accessible enough for me to walk through it in this post. The goal of this post is to help me develop a better understanding of the Wasserstein metric and its properties, as it is foundational to the study of OT.
 
 ___
 ### Background and Motivation:
